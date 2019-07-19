@@ -1,0 +1,40 @@
+.cop {
+   font-family: 'arial';
+   font-size: 15px;
+   font-weight: bold;
+   height: 100px;
+   text-align: center;
+}
+.text-alamat{
+	font-family: 'arial';
+	font-size: 12px;
+	text-align: center;
+	height: 10px;
+}
+.text-surat{
+	font-family: 'arial';
+	text-align: center;
+}
+.border{
+	 x
+}
+.pengantar-surat{
+	font-family: 'arial';
+	padding-left: 60px;
+	height: 100px;
+}
+.identitas{
+	font-family: 'arial';
+	padding-left: 100px;
+	height: 120px;
+}	
+.akhir{
+	font-family: 'arial';
+	padding-left: 50px;
+	height: 120px;
+}	
+.text{
+	font-family: 'arial';
+	padding-left: 100px;
+
+}
